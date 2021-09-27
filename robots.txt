@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://AminovZM.github.io/sitemap.xml
